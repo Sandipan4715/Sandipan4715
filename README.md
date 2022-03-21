@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandipan Modak.
-- 👀 I’m interested in back end developing.
+- 👀 I’m interested in Software Developing.
 - 🌱 I’m currently learning Java, My sql
 - 💞️ I’m looking to collaborate with any renowned organisation where I can give my best and learn to be better everyday.
 - 📫 Ph no: 9903443572
